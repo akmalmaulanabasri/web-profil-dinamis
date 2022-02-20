@@ -25,10 +25,10 @@
             <div class="card-bio mbbanyak">
                 <h3>Prestasi</h3>
                 <ul>
-                    <li><h4>Juara 3 Robotic Tinkat SD</h4></li>
-                    <li><h4>Juara 1 Karya Ilmiah Tinkat SMP</h4></li>
-                    <li><h4>Pustakawan Terbaik 2019</h4></li>
-                    <li><h4>Pustakawan Terbaik 2019</h4></li>
+                    <li><h4>Juara 3 Robotic Tingkat SD</h4></li>
+                    <li><h4>Juara 1 Karya Ilmiah Tingkat SMP</h4></li>
+                    <li><h4>Pustakawan Terbaik 2018</h4></li>
+                    <li><h4>Juara 1 Kosakata Bahasa Arab 2019</h4></li>
                 </ul>
             </div>
         </div>
